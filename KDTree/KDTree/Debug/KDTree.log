@@ -1,0 +1,22 @@
+﻿Построение начато 26.05.2014 2:52:56.
+     1>Проект "C:\study\4 семестр\programming\KDTree\KDTree\KDTree.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\KDTree.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>c:\study\4 семестр\programming\kdtree\kdtree\test.cpp(16): warning C4244: аргумент: преобразование "time_t" в "unsigned long", возможна потеря данных
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\study\4 семестр\programming\KDTree\Debug\KDTree.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\KDTree.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\study\4 семестр\programming\KDTree\Debug\KDTree.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\study\4 семестр\programming\KDTree\Debug\KDTree.lib" /MACHINE:X86 Debug\test.obj
+         LINK : не найден или не выполнена сборка C:\study\4 семестр\programming\KDTree\Debug\KDTree.exe при последней инкрементной компоновке; выполняется полная компоновка
+         KDTree.vcxproj -> C:\study\4 семестр\programming\KDTree\Debug\KDTree.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\study\4 семестр\programming\KDTree\Debug\KDTree.exe;#1" /manifest Debug\KDTree.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\KDTree.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\KDTree.lastbuildstate".
+     1>Построение проекта "C:\study\4 семестр\programming\KDTree\KDTree\KDTree.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.05

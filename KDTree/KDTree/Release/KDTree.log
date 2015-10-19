@@ -1,0 +1,23 @@
+﻿Построение начато 26.05.2014 20:09:10.
+     1>Проект "C:\study\4 семестр\programming\KDTree\KDTree\KDTree.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Release\KDTree.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>test.cpp(16): warning C4244: аргумент: преобразование "time_t" в "unsigned long", возможна потеря данных
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\study\4 семестр\programming\KDTree\Release\KDTree.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\KDTree.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\study\4 семестр\programming\KDTree\Release\KDTree.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\study\4 семестр\programming\KDTree\Release\KDTree.lib" /MACHINE:X86 Release\test.obj
+         Создание кода
+         Создание кода завершено
+         KDTree.vcxproj -> C:\study\4 семестр\programming\KDTree\Release\KDTree.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\study\4 семестр\programming\KDTree\Release\KDTree.exe;#1" /manifest Release\KDTree.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Release\KDTree.unsuccessfulbuild" удаляется.
+         Обращение к "Release\KDTree.lastbuildstate".
+     1>Построение проекта "C:\study\4 семестр\programming\KDTree\KDTree\KDTree.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:06.74

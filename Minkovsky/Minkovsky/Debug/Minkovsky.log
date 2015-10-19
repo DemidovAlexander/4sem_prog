@@ -1,0 +1,24 @@
+﻿Построение начато 18.04.2014 9:50:32.
+     1>Проект "C:\study\4 семестр\programming\Minkovsky\Minkovsky\Minkovsky.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Minkovsky.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\study\4 семестр\programming\minkovsky\minkovsky\main.cpp(126): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\study\4 семестр\programming\minkovsky\minkovsky\main.cpp(131): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\study\4 семестр\programming\minkovsky\minkovsky\main.cpp(177): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\study\4 семестр\programming\Minkovsky\Debug\Minkovsky.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Minkovsky.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\study\4 семестр\programming\Minkovsky\Debug\Minkovsky.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\study\4 семестр\programming\Minkovsky\Debug\Minkovsky.lib" /MACHINE:X86 Debug\main.obj
+         LINK : не найден или не выполнена сборка C:\study\4 семестр\programming\Minkovsky\Debug\Minkovsky.exe при последней инкрементной компоновке; выполняется полная компоновка
+         Minkovsky.vcxproj -> C:\study\4 семестр\programming\Minkovsky\Debug\Minkovsky.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\study\4 семестр\programming\Minkovsky\Debug\Minkovsky.exe;#1" /manifest Debug\Minkovsky.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\Minkovsky.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Minkovsky.lastbuildstate".
+     1>Построение проекта "C:\study\4 семестр\programming\Minkovsky\Minkovsky\Minkovsky.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.72
